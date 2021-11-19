@@ -1,5 +1,5 @@
 # Awesome DIVI
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/dead0eye/divilayouts)
 
 A curated list of amazingly DIVI resources including sites, free layouts, tutorials, plugins, Facebook Groups, Github depositories.
 
@@ -30,6 +30,31 @@ A curated list of amazingly DIVI resources including sites, free layouts, tutori
 | DIVI Gallery | Divigallery.com | [Visit](https://divigallery.com/showcase/divi-layout/feature/free/) | 16 Divi layout examples. More of a showcase gallery, no downloads. |
 | DIVI Supreme | Divisupreme.com | [Visit](https://divisupreme.com/layouts/) | Download stunning layouts built with Divi Supreme. Requires DIVI Supreme Pro. |
 | Josh Hall | Joshhall.co | [Visit](https://joshhall.co/free-stuff/) | A collection of free resources including eBooks, child themes & Divi layouts. |
+
+## Free DIVI Single Page Layouts
+| Title | Author | Website |
+| ------ | ------ | ------ |
+| Hang Out | Wemplates | [Demo / Download](https://wemplates.com/hang-out/) | 
+| Sip | Wemplates | [Demo / Download](https://wemplates.com/sip/) | 
+| Drive | Wemplates | [Demo / Download](https://wemplates.com/drive/) | 
+| Voice | Wemplates | [Demo / Download](https://wemplates.com/voice/) | 
+| Calluric | Wemplates | [Demo / Download](https://wemplates.com/calluric/) | 
+| Citiez | Wemplates | [Demo / Download](https://wemplates.com/citiez/) | 
+| Bite | Wemplates | [Demo / Download](https://wemplates.com/bite/) | 
+| MED | Wemplates | [Demo / Download](https://wemplates.com/med/) | 
+| Group | Wemplates | [Demo / Download](https://wemplates.com/group/) | 
+| Donut | Wemplates | [Demo / Download](https://wemplates.com/donut/) | 
+| Bicycle | Wemplates | [Demo / Download](https://wemplates.com/bicycle/) | 
+| Cowork | Wemplates | [Demo / Download](https://wemplates.com/cowork/) | 
+| Design | Wemplates | [Demo / Download](https://wemplates.com/design/) | 
+| Corporate | Wemplates | [Demo / Download](https://wemplates.com/corporate/) | 
+| Adventure | Wemplates | [Demo / Download](https://wemplates.com/adventure/) | 
+| Document | Wemplates | [Demo / Download](https://wemplates.com/document/) | 
+| Coming Soon | Wemplates | [Demo / Download](https://wemplates.com/coming-soon/) | 
+| Product | Wemplates | [Demo / Download](https://wemplates.com/product/) | 
+| Workspace | Wemplates | [Demo / Download](https://wemplates.com/workspace/) | 
+| Shutterbug | Wemplates | [Demo / Download](https://wemplates.com/shutterbug/) | 
+| Modules - Positions | Wemplates | [Demo / Download](https://wemplates.com/modules-positions/) |
 
 ## Free DIVI Tutorials
 | Title | Owner | Website | Type |
@@ -69,31 +94,6 @@ _No of members as of 19th Nov 2021_
 | Divi Theme Layouts | Craig Longmuir | [Visit](https://www.facebook.com/groups/divithemelayouts/) | 4.0k | N/A | 
 | Divi Freelancers for Hire | Nathan Duvall | [Visit](https://www.facebook.com/groups/divifreelancers/) | 7.1k | Find and hire DIVI designers and developers. | 
 | Free DIVI Layouts | Wemplates.com | [Visit](https://www.facebook.com/groups/freedivilayouts) | 6 | Facebook Group to post your Free DIVI Layouts and Designs. | 
-
-## Free DIVI Single Page Layouts
-| Title | Author | Website |
-| ------ | ------ | ------ |
-| Hang Out | Wemplates | [Demo / Download](https://wemplates.com/hang-out/) | 
-| Sip | Wemplates | [Demo / Download](https://wemplates.com/sip/) | 
-| Drive | Wemplates | [Demo / Download](https://wemplates.com/drive/) | 
-| Voice | Wemplates | [Demo / Download](https://wemplates.com/voice/) | 
-| Calluric | Wemplates | [Demo / Download](https://wemplates.com/calluric/) | 
-| Citiez | Wemplates | [Demo / Download](https://wemplates.com/citiez/) | 
-| Bite | Wemplates | [Demo / Download](https://wemplates.com/bite/) | 
-| MED | Wemplates | [Demo / Download](https://wemplates.com/med/) | 
-| Group | Wemplates | [Demo / Download](https://wemplates.com/group/) | 
-| Donut | Wemplates | [Demo / Download](https://wemplates.com/donut/) | 
-| Bicycle | Wemplates | [Demo / Download](https://wemplates.com/bicycle/) | 
-| Cowork | Wemplates | [Demo / Download](https://wemplates.com/cowork/) | 
-| Design | Wemplates | [Demo / Download](https://wemplates.com/design/) | 
-| Corporate | Wemplates | [Demo / Download](https://wemplates.com/corporate/) | 
-| Adventure | Wemplates | [Demo / Download](https://wemplates.com/adventure/) | 
-| Document | Wemplates | [Demo / Download](https://wemplates.com/document/) | 
-| Coming Soon | Wemplates | [Demo / Download](https://wemplates.com/coming-soon/) | 
-| Product | Wemplates | [Demo / Download](https://wemplates.com/product/) | 
-| Workspace | Wemplates | [Demo / Download](https://wemplates.com/workspace/) | 
-| Shutterbug | Wemplates | [Demo / Download](https://wemplates.com/shutterbug/) | 
-| Modules - Positions | Wemplates | [Demo / Download](https://wemplates.com/modules-positions/) | 
 
 ## DIVI Plugins
 | Title | Owner | Download |
