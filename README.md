@@ -62,7 +62,7 @@ _No of members as of 19th Nov 2021_
 | Elegant Themes User Community | Geno Quiroz |  [Visit](https://www.facebook.com/groups/ElegantThemesUserCommunity/) | 16.3k | N/A | 
 | Divi Theme Tutorials & Web Design Resources | DIVI Builder Addons | [Visit](https://www.facebook.com/groups/DiviThemeTutorials/) | 14.9k | N/A | 
 | Elegant Themes - Divi Users | Alicia Cuthbertson | [Visit](https://www.facebook.com/groups/464947686941789/) | 13.9k | N/A | 
-| Divi Help & Share | Multiple owners | [Visit](https://www.facebook.com/groups/DiviHelpAndShare/) | 17.0k | N/A | 
+| Divi Help & Share | Multiple owners | [Visit](https://www.facebook.com/groups/DiviHelpAndShare/) | 17.0k | `Naked Thursday` - Share what you’ve been up to, Divi and non-Divi. Share within the naked post thread. | 
 | Divi Designers & Developers | Andrew Davis, Tammy Grant and Brant Barton | [Visit](https://www.facebook.com/groups/1405038489818867/) | 8.8k | `Freebie Friday` `Product Wednesday` `Tutorial Tuesday` | 
 | Divi Theme Examples | Craig Longmuir | [Visit](https://www.facebook.com/groups/divithemeexamples/) | 20.3k | N/A | 
 | Divi Theme Layouts | Craig Longmuir | [Visit](https://www.facebook.com/groups/divithemelayouts/) | 4.0k | N/A | 
