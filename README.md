@@ -3,7 +3,7 @@
 
 A curated list of amazingly DIVI resources including sites, free layouts, tutorials, plugins, Facebook Groups, Github depositories.
 
-**Always work in progress**
+**Always work in progress.**
 
 ## DIVI Resources - All In One
 | Title | Website | Download / Demo
