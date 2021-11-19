@@ -22,9 +22,9 @@ A curated list of amazingly DIVI resources including sites, free layouts, tutori
 | Pee-Aye Creative | Peeayecreative.com | [Visit](https://www.peeayecreative.com/category/divi-freebies/) | 
 | DIVI Site Examples | Divisiteexamples.com | [Visit](https://www.divisiteexamples.com/free-layouts/) | 
 | Love DIVI | Lovedivi.com | [Visit](http://lovedivi.com/free-divi-layouts/) | 
-| Opte | [Opte.inc](https://opte.inc/blog/category/divi-layouts/) | [Visit](https://opte.inc/blog/category/divi-layouts/) | 
+| Opte | Opte.inc | [Visit](https://opte.inc/blog/category/divi-layouts/) | 
 | DIVI Soup | Divisoup.com | [Visit](https://divisoup.com/category/freebies/) | 
-| DIVI Space | [Divi.space](https://divi.space/product/category/freebies/) | [Visit](https://divi.space/product/category/freebies/) | 
+| DIVI Space | Divi.space | [Visit](https://divi.space/product/category/freebies/) | 
 | Need Yesterday | Needyesterday.com | [Visit](https://www.needyesterday.com/freebies-divi-theme/) | 
 | DIVI Gallery | Divigallery.com | [Visit](https://divigallery.com/showcase/divi-layout/feature/free/) | 
 | DIVI Supreme | Divisupreme.com | [Visit](https://divisupreme.com/layouts/) | 
@@ -57,7 +57,7 @@ A curated list of amazingly DIVI resources including sites, free layouts, tutori
 _No of members as of 19th Nov 2021_
 | Title / Name | Owner / Admin | URL | Members | Description |
 | ------ | ------ | ------ | ------ | ------ |
-| Divi Theme Users & Elegant Marketplace | Elegantthemes | [Visit](https://www.facebook.com/groups/DiviThemeUsers/) | 70.1k | Official Elegantthemes Facebook Group. `Tutorial Tuesday`, `Web Design Wednesday`, `Product Thursday`, `Freebie Friday` | 
+| Divi Theme Users & Elegant Marketplace | Elegantthemes | [Visit](https://www.facebook.com/groups/DiviThemeUsers/) | 70.1k | Official Elegantthemes Facebook Group. `Tutorial Tuesday` `Web Design Wednesday` `Product Thursday` `Freebie Friday` | 
 | Divi Web Designers | Josh Hall | [Visit](https://www.facebook.com/groups/diviwebdesigners/) | 23.6k | N/A | 
 | Elegant Themes User Community | Geno Quiroz |  [Visit](https://www.facebook.com/groups/ElegantThemesUserCommunity/) | 16.3k | N/A | 
 | Divi Theme Tutorials & Web Design Resources | DIVI Builder Addons | [Visit](https://www.facebook.com/groups/DiviThemeTutorials/) | 14.9k | N/A | 
