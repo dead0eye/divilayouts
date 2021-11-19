@@ -119,10 +119,10 @@ _No of members as of 19th Nov 2021_
 | DIVI Icons Pro | b3multimedia.ie | [Download](https://www.b3multimedia.ie/product/divi-icons/) | Free / Premium | 
 
 ## DIVI Github Resources
-| Title | Owner | Github |
-| ------ | ------ | ------ |
-| Elegantthemes | Elegantthemes | [Github](https://github.com/elegantthemes) |
-| DIVI Resources | Andy Tran and Josh Lyan | [Github](https://github.com/andyhqtran/divi-resources) |
+| Title | Owner | Github | Description |
+| ------ | ------ | ------ | ------ |
+| Elegantthemes | Elegantthemes | [Github](https://github.com/elegantthemes) | Official repository for Elegantthemes' themes. |
+| DIVI Resources | Andy Tran and Josh Lyan | [Github](https://github.com/andyhqtran/divi-resources) | A list of awesome resources for Divi Theme. |
 
 ## License
 CC0
