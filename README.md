@@ -5,30 +5,31 @@ A curated list of amazingly DIVI resources including sites, free layouts, tutori
 
 **Always work in progress.**
 
-## DIVI Resources - All In One
-| Title | Website | Download / Demo
-| ------ | ------ | ------ |
-| Elegant Themes | Elegantthemes.com | [Visit](https://www.elegantthemes.com/blog/category/divi-resources) | 
-| Wemplates | Wemplates.com | [Visit](https://www.wemplates.com) | 
-| DIVILayouts | Divilayouts.com | [Visit](https://www.divilayouts.com/divi-layouts-category/free-divi-layouts/) | 
-| DIVI Den | Divi-den.com | [Visit](https://divi-den.com/product-category/free-divi-layouts/) | 
-| DIVI Theme Examples | Divithemeexamples.com | [Visit](https://www.divithemeexamples.com/divi-showcase-category/free-divi-child-themes/) | 
-| DIVI Cake | Divicake.com | [Visit](https://divicake.com/blog/free-divi-layouts/) | 
-| Darrel Wilson | Darrelwilson.com | [Visit](https://darrelwilson.com/divi-theme-and-elementor-layouts/) | 
-| Mark Hendriksen | Markhendriksen.com | [Visit](https://www.markhendriksen.com/free-divi-layouts/) | 
-| DIVI Mundo | Divimundo.com | [Visit](https://divimundo.com/en/divi-layouts/) | 
-| DIVI Zoom | Divizoom.com | [Visit](https://divizoom.com/product/free-divi-layouts-section-and-header-bundle/) | 
-| B3 Multimedia | B3multimedia.ie | [Visit](https://www.b3multimedia.ie/best-free-blog-page-templates-for-divi-theme/) | | DIVI Childthemes | Divi-childthemes.com | [Visit](https://www.divi-childthemes.com/free-divi-layouts/) | 
-| Pee-Aye Creative | Peeayecreative.com | [Visit](https://www.peeayecreative.com/category/divi-freebies/) | 
-| DIVI Site Examples | Divisiteexamples.com | [Visit](https://www.divisiteexamples.com/free-layouts/) | 
-| Love DIVI | Lovedivi.com | [Visit](http://lovedivi.com/free-divi-layouts/) | 
-| Opte | Opte.inc | [Visit](https://opte.inc/blog/category/divi-layouts/) | 
-| DIVI Soup | Divisoup.com | [Visit](https://divisoup.com/category/freebies/) | 
-| DIVI Space | Divi.space | [Visit](https://divi.space/product/category/freebies/) | 
-| Need Yesterday | Needyesterday.com | [Visit](https://www.needyesterday.com/freebies-divi-theme/) | 
-| DIVI Gallery | Divigallery.com | [Visit](https://divigallery.com/showcase/divi-layout/feature/free/) | 
-| DIVI Supreme | Divisupreme.com | [Visit](https://divisupreme.com/layouts/) | 
-| Josh Hall | Joshhall.co | [Visit](https://joshhall.co/free-stuff/) | 
+## Free DIVI Layouts and Resources - All In One
+| Title | Website | Download / Demo | Description |
+| ------ | ------ | ------ | ------ |
+| Elegant Themes | Elegantthemes.com | [Visit](https://www.elegantthemes.com/blog/category/divi-resources) | Official DIVI website. | 
+| Wemplates | Wemplates.com | [Visit](https://www.wemplates.com) | Free and Premium DIVI Layouts, including its latest DIVI Wireframe UI Kit. |
+| DIVILayouts | Divilayouts.com | [Visit](https://www.divilayouts.com/divi-layouts-category/free-divi-layouts/) | This page lists all the best Free Layouts for Divi. |
+| DIVI Den | Divi-den.com | [Visit](https://divi-den.com/product-category/free-divi-layouts/) | Free DIVI layouts with demo and installation video. |
+| DIVI Theme Examples | Divithemeexamples.com | [Visit](https://www.divithemeexamples.com/divi-showcase-category/free-divi-child-themes/) | This page lists all of the best free Divi Child themes from 3rd party Divi developers. |
+| DIVI Cake | Divicake.com | [Visit](https://divicake.com/blog/free-divi-layouts/) | 25 free Divi layouts you can download today, in no particular order. |
+| Darrel Wilson | Darrelwilson.com | [Visit](https://darrelwilson.com/divi-theme-and-elementor-layouts/) | Free Divi And Elementor layouts. |
+| Mark Hendriksen | Markhendriksen.com | [Visit](https://www.markhendriksen.com/free-divi-layouts/) | Popular free layout packs. Registration required. |
+| DIVI Mundo | Divimundo.com | [Visit](https://divimundo.com/en/divi-layouts/) | Unique Divi layout packs and Divi theme builder layouts. |
+| DIVI Zoom | Divizoom.com | [Visit](https://divizoom.com/product/free-divi-layouts-section-and-header-bundle/) | Professional hero section, layout and header bundle. |
+| B3 Multimedia | B3multimedia.ie | [Visit](https://www.b3multimedia.ie/best-free-blog-page-templates-for-divi-theme/) | 10 best free blog page templates for DIVI. |
+| DIVI Childthemes | Divi-childthemes.com | [Visit](https://www.divi-childthemes.com/free-divi-layouts/) | Free DIVI layouts, demo and documentation provided. Registration required. |
+| Pee-Aye Creative | Peeayecreative.com | [Visit](https://www.peeayecreative.com/category/divi-freebies/) | Free layouts, child themes, plugins, CSS, courses and tutorials. |
+| DIVI Site Examples | Divisiteexamples.com | [Visit](https://www.divisiteexamples.com/free-layouts/) | Pre-made designs with the combinations of modules, rows, sections, and pages. |
+| Love DIVI | Lovedivi.com | [Visit](http://lovedivi.com/free-divi-layouts/) | Free & premium Divi child themes & layouts. |
+| Opte | Opte.inc | [Visit](https://opte.inc/blog/category/divi-layouts/) | Free DIVI layout packs with full page screenshots and demo. Email required. |
+| DIVI Soup | Divisoup.com | [Visit](https://divisoup.com/category/freebies/) | Free DIVI layouts, modules and other CSS designs.  |
+| DIVI Space | Divi.space | [Visit](https://divi.space/product/category/freebies/) | Free plugin, layouts, themes and guides. |
+| Need Yesterday | Needyesterday.com | [Visit](https://www.needyesterday.com/freebies-divi-theme/) | DIVI Theme Freebies |
+| DIVI Gallery | Divigallery.com | [Visit](https://divigallery.com/showcase/divi-layout/feature/free/) | 16 Divi layout examples. More of a showcase gallery, no downloads. |
+| DIVI Supreme | Divisupreme.com | [Visit](https://divisupreme.com/layouts/) | Download stunning layouts built with Divi Supreme. Requires DIVI Supreme Pro. |
+| Josh Hall | Joshhall.co | [Visit](https://joshhall.co/free-stuff/) | A collection of free resources including eBooks, child themes & Divi layouts. |
 
 ## Free DIVI Tutorials
 | Title | Owner | Website | Type |
