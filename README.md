@@ -32,29 +32,30 @@ A curated list of amazingly DIVI resources including sites, free layouts, tutori
 | Josh Hall | Joshhall.co | [Visit](https://joshhall.co/free-stuff/) | A collection of free resources including eBooks, child themes & Divi layouts. |
 
 ## Free DIVI Single Page Layouts
-| Title | Author | Website |
-| ------ | ------ | ------ |
-| Hang Out | Wemplates | [Demo / Download](https://wemplates.com/hang-out/) | 
-| Sip | Wemplates | [Demo / Download](https://wemplates.com/sip/) | 
-| Drive | Wemplates | [Demo / Download](https://wemplates.com/drive/) | 
-| Voice | Wemplates | [Demo / Download](https://wemplates.com/voice/) | 
-| Calluric | Wemplates | [Demo / Download](https://wemplates.com/calluric/) | 
-| Citiez | Wemplates | [Demo / Download](https://wemplates.com/citiez/) | 
-| Bite | Wemplates | [Demo / Download](https://wemplates.com/bite/) | 
-| MED | Wemplates | [Demo / Download](https://wemplates.com/med/) | 
-| Group | Wemplates | [Demo / Download](https://wemplates.com/group/) | 
-| Donut | Wemplates | [Demo / Download](https://wemplates.com/donut/) | 
-| Bicycle | Wemplates | [Demo / Download](https://wemplates.com/bicycle/) | 
-| Cowork | Wemplates | [Demo / Download](https://wemplates.com/cowork/) | 
-| Design | Wemplates | [Demo / Download](https://wemplates.com/design/) | 
-| Corporate | Wemplates | [Demo / Download](https://wemplates.com/corporate/) | 
-| Adventure | Wemplates | [Demo / Download](https://wemplates.com/adventure/) | 
-| Document | Wemplates | [Demo / Download](https://wemplates.com/document/) | 
-| Coming Soon | Wemplates | [Demo / Download](https://wemplates.com/coming-soon/) | 
-| Product | Wemplates | [Demo / Download](https://wemplates.com/product/) | 
-| Workspace | Wemplates | [Demo / Download](https://wemplates.com/workspace/) | 
-| Shutterbug | Wemplates | [Demo / Download](https://wemplates.com/shutterbug/) | 
-| Modules - Positions | Wemplates | [Demo / Download](https://wemplates.com/modules-positions/) |
+| Title | Author | Website | Download (Github) |
+| ------ | ------ | ------ | ------ |
+| 3 Ebook Landing Pages | Wemplates | [Demo / Download](https://wemplates.com/3-free-ebook-landing-pages/) | Coming soon |
+| Hang Out | Wemplates | [Demo / Download](https://wemplates.com/hang-out/) | Coming soon |
+| Sip | Wemplates | [Demo / Download](https://wemplates.com/sip/) | Coming soon |
+| Drive | Wemplates | [Demo / Download](https://wemplates.com/drive/) | Coming soon |
+| Voice | Wemplates | [Demo / Download](https://wemplates.com/voice/) | Coming soon |
+| Calluric | Wemplates | [Demo / Download](https://wemplates.com/calluric/) | Coming soon |
+| Citiez | Wemplates | [Demo / Download](https://wemplates.com/citiez/) | Coming soon |
+| Bite | Wemplates | [Demo / Download](https://wemplates.com/bite/) | Coming soon |
+| MED | Wemplates | [Demo / Download](https://wemplates.com/med/) | Coming soon |
+| Group | Wemplates | [Demo / Download](https://wemplates.com/group/) | Coming soon |
+| Donut | Wemplates | [Demo / Download](https://wemplates.com/donut/) | Coming soon |
+| Bicycle | Wemplates | [Demo / Download](https://wemplates.com/bicycle/) | Coming soon |
+| Cowork | Wemplates | [Demo / Download](https://wemplates.com/cowork/) | Coming soon |
+| Design | Wemplates | [Demo / Download](https://wemplates.com/design/) | Coming soon |
+| Corporate | Wemplates | [Demo / Download](https://wemplates.com/corporate/) | Coming soon |
+| Adventure | Wemplates | [Demo / Download](https://wemplates.com/adventure/) | Coming soon |
+| Document | Wemplates | [Demo / Download](https://wemplates.com/document/) | Coming soon |
+| Coming Soon | Wemplates | [Demo / Download](https://wemplates.com/coming-soon/) | Coming soon |
+| Product | Wemplates | [Demo / Download](https://wemplates.com/product/) | Coming soon |
+| Workspace | Wemplates | [Demo / Download](https://wemplates.com/workspace/) | Coming soon |
+| Shutterbug | Wemplates | [Demo / Download](https://wemplates.com/shutterbug/) | Coming soon |
+| Modules - Positions | Wemplates | [Demo / Download](https://wemplates.com/modules-positions/) | Coming soon |
 
 ## Free DIVI Tutorials
 | Title | Owner | Website | Type |
