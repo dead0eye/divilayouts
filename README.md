@@ -35,6 +35,7 @@ A curated list of amazingly DIVI resources including sites, free layouts, tutori
 | Title | Author | Website | Download (Github) |
 | ------ | ------ | ------ | ------ |
 | 3 Ebook Landing Pages | Wemplates | [Demo / Download](https://wemplates.com/3-free-ebook-landing-pages/) | [Download](https://github.com/dead0eye/divilayouts/tree/main/Free%20Layouts/3%20Ebook%20Landing%20Pages) |
+| Fabric | Wemplates | [Demo / Download](https://wemplates.com/fabric/) | Coming soon |
 | Hang Out | Wemplates | [Demo / Download](https://wemplates.com/hang-out/) | Coming soon |
 | Sip | Wemplates | [Demo / Download](https://wemplates.com/sip/) | Coming soon |
 | Drive | Wemplates | [Demo / Download](https://wemplates.com/drive/) | Coming soon |
